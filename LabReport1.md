@@ -1,6 +1,6 @@
 ```
 [user@sahara ~]$ cd lecture1
-[user@sahara ~/lecture1]$ `cd`
+[user@sahara ~/lecture1]$ cd
 [user@sahara ~]$ 
 ```
 **The working directory when the code was run was lecture1. There was no output because the cd command allows you to move between directories. Without an argument, the command has no output but returns you to the home directory. The output is not an error.**
